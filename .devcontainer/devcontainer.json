@@ -19,7 +19,8 @@
                 "redhat.vscode-yaml",
                 "shardulm94.trailing-spaces",
                 "oderwat.indent-rainbow",
-                "mhutchie.git-graph"
+                "mhutchie.git-graph",
+                "cweijan.vscode-database-client2"
             ]
         }
     },
